@@ -1,0 +1,153 @@
+
+
+#home_body {
+	background: #BFA679;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 100vh;
+	flex-direction: column;
+	font-family:'Poppins';
+}
+#login_body{
+	background: linear-gradient(
+		to right,
+		#BFA679 0%,
+		#BFA679 50%,
+		white 50%,
+		white 100%
+	);
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 100vh;
+	flex-direction: column;
+}
+#signup_body{
+	background: linear-gradient(
+		to right,
+		#BFA679 0%,
+		#BFA679 50%,
+		white 50%,
+		white 100%
+	);
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 100vh;
+	flex-direction: column;
+}
+*{
+	box-sizing: border-box;
+}
+
+form{
+	width: 500px;
+	height:fit-content;
+	border: 2px solid #ccc;
+	padding: 30px;
+	background: #fff;
+	border-radius: 15px;
+}
+
+h2 {
+	text-align: center;
+	margin-bottom: 40px;
+}
+
+input {
+	display: block;
+	border: 2px solid #ccc;
+	width: 95%;
+	padding: 10px;
+	margin: 10px auto;
+	border-radius: 5px;
+}
+label {
+	color: #888;
+	font-size: 18px;
+	padding: 10px;
+}
+
+button {
+	float: inline-end;
+	background: #BFA679;
+	padding: 10px 15px;
+	color: #fff;
+	border-radius: 5px;
+	margin-right: 10px;
+	border: none;
+}
+button:hover{
+	opacity: .7;
+}
+.error {
+   background: #F2DEDE;
+   color: #A94442;
+   padding: 10px;
+   width: 95%;
+   border-radius: 5px;
+   margin: 20px auto;
+}
+
+#home_h1 {
+	text-align: center;
+	color: #fff;
+}
+
+#homelink {
+	float: right;
+	background: #555;
+	padding: 10px 15px;
+	color: #fff;
+	border-radius: 5px;
+	margin-right: 10px;
+	border: none;
+	text-decoration: none;
+}
+#homelink:hover{
+	opacity: .7;
+}
+a{
+	color: #BFA679;
+	padding: 10px;
+	list-style: none;
+	text-decoration: none;
+}
+#after_signup_body {
+	background: linear-gradient(
+		to right,
+		#BFA679 0%,
+		#BFA679 50%,
+		white 50%,
+		white 100%
+	);
+	display: flex;
+	align-items: center;
+	height: 100vh;
+	flex-direction: column;
+}
+#after_signup_welcome{
+
+	top: 0;
+	text-align: center;
+}
+.container{
+	position: relative;
+	display: flex;
+	margin: auto;
+	align-items: center;
+	justify-content: center;
+	height: 100vh;
+	width: 100vh;
+
+}
+.signup_logo{
+	position: absolute;
+	align-items: center;
+	justify-content: center;
+}
+.signup_form{
+	position: absolute;
+}
+
