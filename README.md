@@ -18,6 +18,7 @@ The Best Website To Get Individual Sports News.
 - [Features](#features)
 - [Development Process](#development-process)
 - [Technologies Used](#technologies-used)
+- [Contributing](#contributing)
 - [Development Team](#development-team)
 - [Feedback](#feedback)
 - [Contact](#contact)
