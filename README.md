@@ -29,7 +29,7 @@ The Best Website To Get Individual Sports News.
 Athletalk is a web-based platform dedicated to fans of individual sports, providing centralized access to key information, news, and updates about your favorite sports. Whether you follow Golf, Tennis, Boxing, UFC, MotoGP, or F1, Athletalk ensures you stay informed and engaged.
 
 <p align="center">
-  <img src = "https://i.imgur.com/4C8TJPJ.png" width=700>
+  <img src = "./Screenshots/Landing_page.png" width=700>
 </p>
 
 ## Features
@@ -54,7 +54,7 @@ Sign up and sign in features for personalized user experiences, allowing users t
 - **Note:** This feature is currently only available for Formula 1.
 
 <p align="center">
-  <img src = "https://i.imgur.com/aCIdgs9.png" width=700>
+  <img src = "./Screenshots/F1_Calendar.png" width=700>
 </p>
 
 ### 4. *Leaderboard*
