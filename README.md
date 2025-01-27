@@ -1,7 +1,7 @@
 <h1 align="center"> ATHLETALK </h1> <br>
 <p align="center">
   <a href="https://github.com/P0TER19/ATHLETALK">
-    <img alt="ATHLETALK" title="ATHLETALK" src="https://i.imgur.com/Ug7uxsA.png" width="450">
+    <img alt="ATHLETALK" title="ATHLETALK" src="./Screenshots/Logo.png" width="450">
   </a>
 </p>
 
@@ -38,14 +38,14 @@ A few of the things you can do with GitPoint:
 ### 1. *User Authentification*
 Sign up and sign in features for personalized user experiences, allowing users to access tailored content and save preferences.
 <p align="center">
-  <img src = "https://i.imgur.com/nkICMvn.png" width=700>
+  <img src = "./Screenshots/Signup_Signin.png" width=700>
 </p>
 
 ### 2. *Dedicated Sport Pages*
 - Each sport has its own page featuring the latest news, ensuring fans have access to up-to-date information.
 - Countdown timers are available for every sport, displaying the time remaining until the next major event.
 <p align="center">
-  <img src = "https://i.imgur.com/tJQyIdI.png" width=700>
+  <img src = "./Screenshots/Sports_pages.png" width=700>
 </p>
 
 ### 3. *History and Event Calendar*
@@ -62,7 +62,7 @@ Sign up and sign in features for personalized user experiences, allowing users t
 **Note:** This feature is currently only available for Formula 1.
 
 <p align="center">
-  <img src = "https://i.imgur.com/BJphjPa.png" width=700>
+  <img src = "./Screenshots/F1_Leaderboard.png" width=700>
 </p>
 
 ### 5. *Responsive Design*
